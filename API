@@ -1,4 +1,4 @@
-if game.PlaceId == 6413404696 then
+if game.PlaceId == 6413404697 then
 	-- init
 	local player = game.Players.LocalPlayer
 	local mouse = player:GetMouse()
