@@ -1,4 +1,4 @@
-if game.PlaceId == 6413404697 then
+if game.PlaceId == 2384168338 then
 	if setsimulationradius == nil then
 		local StarterGui = game:GetService("StarterGui")
 		print("Hata ile ilgili bildirim gönderildi.")
